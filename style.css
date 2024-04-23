@@ -86,7 +86,7 @@ body{
 .profile-card .buttons{
     display: flex;
     align-items: center;
-    margin-top: 25px;
+    margin-top: 20px;
 }
 .buttons .button{
     color: #fff;
